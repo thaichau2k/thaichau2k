@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thaichau2k
-- 👀 I’m interested in movies
+- 👋 Hi, I’m Nguyen Ngoc Thai Chau
+- 👀 I’m interested in watching movies
 - 🌱 I’m currently learning Java Web
 - 📫 How to reach me: 
 gmail: thaichau005@gmail.com
