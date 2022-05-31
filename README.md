@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Nguyen Ngoc Thai Chau
+- 👀 I’m a filmaholic!!! The Godfather (1972), Hua Yang Nian Hua (2000) and F**** Club (1999) are my three favourite movies. 
 <!---
 thaichau2k/thaichau2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
